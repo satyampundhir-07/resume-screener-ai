@@ -1,0 +1,7 @@
+{
+  "MAE": 0.4766,
+  "RMSE": 0.5272,
+  "mean_predicted": 0.1394,
+  "mean_label": 0.616,
+  "n_samples": 5
+}
